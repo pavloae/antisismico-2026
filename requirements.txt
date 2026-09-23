@@ -1,0 +1,9 @@
+# requirements.txt
+openseespy
+opstool
+matplotlib
+numpy
+scipy
+pandas
+pyvirtualdisplay
+notebook
